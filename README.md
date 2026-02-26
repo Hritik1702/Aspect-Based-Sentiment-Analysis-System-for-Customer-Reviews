@@ -29,23 +29,3 @@ The project is designed to be **academically rigorous**, **industry-aligned**, a
 
 ---
 
-## Key Features
-
-- ✔ Overall Sentiment Classification (Positive / Negative)  
-- ✔ Aspect-Based Sentiment Analysis for:
-  - Food
-  - Service
-  - Price
-  - Ambience
-  - Delivery  
-- ✔ Explainable, rule-based aspect sentiment logic  
-- ✔ Real-world Yelp review dataset (loaded directly via URL)  
-- ✔ Lightweight and stable (no deep learning dependencies)  
-
----
-
-
-├── app.py                # Main application file
-├── requirements.txt      # Python dependencies
-├── README.md             # Project documentation
-
